@@ -16,6 +16,6 @@ then
 fi
 # Checking memery
 free -m
-exit 99
+
 
 
